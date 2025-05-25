@@ -1,0 +1,11 @@
+{
+	"id": "test",
+	"name": "Test",
+	"version": "0.0.1",
+	"apiVersion": "^0.0.1",
+	"description": "My personal plugin for testing the limbo API",
+	"author": {
+		"name": "Wes Lowe",
+		"email": "wesley.jlowe10@gmail.com"
+	}
+}

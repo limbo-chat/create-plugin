@@ -1,0 +1,10 @@
+import * as limbo from "limbo";
+
+export default {
+	onActivate: () => {
+		console.log("<%= plugin.name %> activated!")
+	},
+	onDeactivate: () => {
+		console.log("<%= plugin.name %> deactivated :(")
+	}
+} satisfies limbo.Plugin;
