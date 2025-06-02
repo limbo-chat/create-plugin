@@ -1,5 +1,5 @@
 {
-	"name": "create-limbo",
+	"name": "create-limbo-plugin",
 	"type": "module",
 	"version": "0.1.0",
 	"description": "The best way to create a limbo plugin",
