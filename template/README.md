@@ -10,6 +10,14 @@ This template is a starting point for creating a [limbo](https://github.com/limb
 
 -   todo include link to limbo developer docs
 
+## Prerequisites
+
+-   [pnpm](https://pnpm.io/settings) v10+
+
+## Get started
+
+1. Copy .env.example -> .env
+
 ## Development
 
 Running the `dev` script allows Rollup to rebuild your plugin on change. To start development, run one of the following command depending on your package manager.
