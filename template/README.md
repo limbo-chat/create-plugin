@@ -1,10 +1,10 @@
 # limbo plugin template
 
-This template is a starting point for creating a [limbo](https://github.com/limbo-llm) plugin with:
+This template is a starting point for creating a [limbo](https://github.com/limbo-chat) plugin with:
 
 -   TypeScript
 -   [Rollup](https://github.com/rollup/rollup)
--   [Rollup plugin limbo](https://github.com/rollup-plugin)
+-   [rollup-plugin-limbo](https://github.com/limbo-chat/rollup-plugin)
 
 ## Useful resources
 
@@ -12,7 +12,7 @@ This template is a starting point for creating a [limbo](https://github.com/limb
 
 ## Prerequisites
 
--   [pnpm](https://pnpm.io/settings) v10+
+-   [pnpm](https://pnpm.io) v10+
 
 ## Get started
 
@@ -24,13 +24,9 @@ Running the `dev` script allows Rollup to rebuild your plugin on change. To star
 
 ```sh
 npm run dev
-
 # or
-
 pnpm dev
-
 # or
-
 yarn dev
 ```
 
@@ -44,12 +40,8 @@ Running the `build` script builds your plugin for production and the output will
 
 ```sh
 npm run build
-
 # or
-
 pnpm build
-
 # or
-
 yarn build
 ```
