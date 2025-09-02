@@ -1,6 +1,6 @@
 # create-limbo-plugin
 
-This is a CLI tool to quickly create a new [limbo](https://github.com/limbo-llm) plugin.
+This is a CLI tool to quickly create a new [limbo](https://github.com/limbo-chat) plugin.
 
 ## Usage
 
