@@ -13,7 +13,7 @@
 	],
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/limbo-llm/create-limbo"
+		"url": "https://github.com/limbo-chat/create-plugin"
 	},
 	"files": [
 		"dist",
@@ -36,7 +36,7 @@
 	"dependencies": {
 		"@clack/prompts": "^0.7.0",
 		"chalk": "^5.4.1",
-		"poopgen": "^0.3.0"
+		"poopgen": "^1.0.1"
 	},
 	"devDependencies": {
 		"@types/node": "^22.5.5",
